@@ -15,7 +15,7 @@
 	<tx:annotation-driven />
 	
 	<context:component-scan
-		base-package="io.eronalves1996.spring.springorm.product.dao.impl" />
+		base-package="io.eronalves1996.spring.springormexercise" />
 
 	<bean
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource"

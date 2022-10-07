@@ -21,6 +21,8 @@ public class Passenger {
 		this.firstName = firstName;
 		this.lastName = lastName;
 	}
+	
+	public Passenger() {}
 
 	public String getFirstName() {
 		return firstName;
